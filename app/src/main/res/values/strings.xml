@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="navigation_drawer_items">
+    <item>Menu 1</item>
+    <item>Menu 2</item>
+    <item>Menu 3</item>
+    <item>Menu 4</item>
+    <item>Menu 5</item>
+  </string-array>
+  <string name="app_name">material-navigation-drawer-example</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+
+</resources>
