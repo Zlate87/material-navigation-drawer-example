@@ -1,7 +1,7 @@
 material-navigation-drawer-example
 ==================================
 
-A simple example application with minSdkVersion set to 14, that is using navigation drawer with a toolbar and matirial deign style.
+A simple example application with minSdkVersion set to 14, that is using navigation drawer with a toolbar and material design style.
 
 See attached screenshots from Nexus 5 with Android 5.0 and Nexus 4 with Android 4.4.4.
 
